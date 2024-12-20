@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "13419342169",
+    "firebase_url": "https://my-test-2-732df-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-test-2-732df",
+    "storage_bucket": "my-test-2-732df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13419342169:android:0cc2591ee3aa66c96f0448",
+        "android_client_info": {
+          "package_name": "com.example.citizenengagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9T_ClZ2gbPbNjKDnXJdPWvnOBJMIRNcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13419342169:android:2bf5254e93f116586f0448",
+        "android_client_info": {
+          "package_name": "nsolution.com.bd.stock_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9T_ClZ2gbPbNjKDnXJdPWvnOBJMIRNcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
